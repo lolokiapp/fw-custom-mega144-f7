@@ -7,7 +7,7 @@
 // Knock is on ADC3 
 #define KNOCK_ADC ADCD3
 
-// knock 1 - pin PA3
+// knock 1 - pin PF4
 #define KNOCK_ADC_CH1 ADC_CHANNEL_IN14
 #define KNOCK_PIN_CH1 Gpio::F4
 
